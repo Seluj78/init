@@ -1,0 +1,4 @@
+La commande
+echo "62.210.207.183 intra.42.fr" >> /etc/hosts
+
+suffit. Cela rends intra.42.fr innacessible

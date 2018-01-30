@@ -1,0 +1,1 @@
+nslookup slash16.org | sed -n 1p | cut -d : -f2 | awk '{$1=$1};1'
