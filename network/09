@@ -1,1 +1,14 @@
-On remarque que le DNS utilise par 42.fr et slash16.org sont les meme, et donc que les deux utilisent le serveur dns de 42
+➜  network git:(master) ✗ ping www.42.fr
+PING www-lb.42.fr (10.52.1.11): 56 data bytes
+64 bytes from 10.52.1.11: icmp_seq=0 ttl=63 time=0.234 ms
+64 bytes from 10.52.1.11: icmp_seq=1 ttl=63 time=0.456 ms
+64 bytes from 10.52.1.11: icmp_seq=2 ttl=63 time=0.396 ms
+64 bytes from 10.52.1.11: icmp_seq=3 ttl=63 time=0.319 ms
+64 bytes from 10.52.1.11: icmp_seq=4 ttl=63 time=0.335 ms
+64 bytes from 10.52.1.11: icmp_seq=5 ttl=63 time=0.363 ms
+64 bytes from 10.52.1.11: icmp_seq=6 ttl=63 time=0.265 ms
+64 bytes from 10.52.1.11: icmp_seq=7 ttl=63 time=0.333 ms
+^C
+--- www-lb.42.fr ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.234/0.338/0.456/0.066 ms

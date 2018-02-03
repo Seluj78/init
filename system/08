@@ -1,0 +1,5 @@
+System-wide:
+/etc/ssh/ssh_known_hosts ou le fichier specifie par la cle GlobalKnownHostsFile dans le fichier de configuration (/etc/ssh/ssh_config)
+
+User-wide:
+$HOME/.ssh/known_hosts

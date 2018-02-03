@@ -1,1 +1,65 @@
-Les adresses ips ne sont pas les memes, on peux donc en deduire que le DNS utilise n'est pas celui de google par default
+➜  network git:(master) whois slash16.org
+Domain Name: SLASH16.ORG
+Registry Domain ID: D171286063-LROR
+Registrar WHOIS Server: whois.bookmyname.com
+Registrar URL: https://www.bookmyname.com
+Updated Date: 2017-05-18T14:06:59Z
+Creation Date: 2014-03-03T23:31:09Z
+Registry Expiry Date: 2018-03-03T23:31:09Z
+Registrar Registration Expiration Date:
+Registrar: Online SAS
+Registrar IANA ID: 74
+Registrar Abuse Contact Email: abuse+org@bookmyname.com
+Registrar Abuse Contact Phone: +33.184130099
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C147976416-LROR
+Registrant Name: Jean EYMERIT
+Registrant Organization:
+Registrant Street: 6 SQUARE GRANGE
+Registrant City: PARIS
+Registrant State/Province:
+Registrant Postal Code: 75013
+Registrant Country: FR
+Registrant Phone: +33.676047559
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: jean.eymerit@gmail.com
+Registry Admin ID: C2283865-LROR
+Admin Name: Hostmaster Online SAS
+Admin Organization: ONLINE
+Admin Street: 8 rue de la ville l'eveque
+Admin City: PARIS
+Admin State/Province:
+Admin Postal Code: 75008
+Admin Country: FR
+Admin Phone: +33.184130000
+Admin Phone Ext:
+Admin Fax: +33.173502901
+Admin Fax Ext:
+Admin Email: hostmaster@online.net
+Registry Tech ID: C2283865-LROR
+Tech Name: Hostmaster Online SAS
+Tech Organization: ONLINE
+Tech Street: 8 rue de la ville l'eveque
+Tech City: PARIS
+Tech State/Province:
+Tech Postal Code: 75008
+Tech Country: FR
+Tech Phone: +33.184130000
+Tech Phone Ext:
+Tech Fax: +33.173502901
+Tech Fax Ext:
+Tech Email: hostmaster@online.net
+Name Server: NS-1236.AWSDNS-26.ORG
+Name Server: NS-144.AWSDNS-18.COM
+Name Server: NS-686.AWSDNS-21.NET
+Name Server: NS-1989.AWSDNS-56.CO.UK
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-02-03T11:26:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

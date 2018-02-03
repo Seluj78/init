@@ -1,0 +1,3 @@
+Pour recuperer la version de debian installee, il suffit de regarder dans
+
+/etc/debian_version
